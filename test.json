@@ -1,0 +1,7 @@
+{
+ "name": "god daily",
+ "description": "",
+ "task": [
+    {"config":"2 9 * * * https://cdn.jsdelivr.net/gh/DovFork/jd-scripts@master/jd_bean_change.js, tag=京东资产变动通知, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true", "addons":"https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/QuantumultX/cookies.conf"},
+]
+}
